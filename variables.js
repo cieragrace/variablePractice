@@ -10,3 +10,11 @@ var yearatjob = "12";
 var atwork = "false";
 var athome = "true";
 var beentoitaly = "false";
+
+nickname = "cieragrace";
+athome = "false";
+
+console.log(streetname);
+console.log(yearatjob);
+console.log(athome);
+console.log(beentoitaly);
