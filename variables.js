@@ -7,9 +7,9 @@ var age = 35;
 var streetNumber = 1519;
 var yearAtJob = 12;
 // Booleans
-var atWork = "false";
-var atHome = "true";
-var beenToItaly = "false";
+var atWork = false
+var atHome = true;
+var beenToItaly = false;
 
 nickName = "cieragrace";
 atHome = "false";
